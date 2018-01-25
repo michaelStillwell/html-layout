@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+
+.header {
+    height: 10vh;
+    padding: 10px 20px;
+    background: lightslategray;
+}
+.menu-button {
+    width: 5vw;
+    height: 100%;
+    background: darkblue;
+}
+
+.para-container {
+    padding: 10px 100px;
+    /* background: pink; */
+}
+.para-restrictor {
+    width: 76%;
+    height: 100%;
+    margin: auto;
+    /* background: saddlebrown; */
+}
+.paragraph {
+    font-size: 225%;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+.box-container {
+    height: 58.5vh;
+    background: magenta;
+}
+.blue-box {
+    height: 25%;
+    background: blue;
+}
+.cyan-box {
+    height: 25%;
+    background: cyan;
+}
+.green-box {
+    height: 25%;
+    background: green;
+}
+.yellow-box {
+    height: 25%;
+    background: yellowgreen;
+}
